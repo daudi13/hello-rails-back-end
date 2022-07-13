@@ -11,7 +11,7 @@ Greeting.create!([
     message: "Hello, world!",
     language: "en"
   },
-  {
+  { 
     message: "Hola, mundo!",
     language: "es"
   },
